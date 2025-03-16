@@ -1,0 +1,501 @@
+Fecha;Tipo_Evento;Nivel_Riesgo;IP_Origen;Usuario_Afectado;Estado
+2025-03-16 19:10:35.438764;Ataque de phishing detectado;Alto;192.168.1.38;invitado;Pendiente
+2025-03-16 19:10:35.438487;Anomalia en Traficode red;Critico;192.168.1.147;usuario3;Investigacion
+2025-03-16 19:10:35.438485;Anomalia en Traficode red;Medio;192.168.1.42;invitado;Resuelto
+2025-03-16 19:10:35.438356;Modificacionsospechosa de archivos;Medio;192.168.1.150;admin;Mitigado
+2025-03-16 19:10:35.438308;Modificacionsospechosa de archivos;Alto;192.168.1.72;invitado;Resuelto
+2025-03-16 19:10:35.438302;Intento de acceso no autorizado;Bajo;192.168.1.136;usuario3;Resuelto
+2025-03-16 19:10:35.438196;Deteccionde malware;Medio;192.168.1.114;soporte;Resuelto
+2025-03-16 19:10:35.438034;Deteccionde malware;Medio;192.168.1.108;soporte;Mitigado
+2025-03-16 19:10:35.437966;Intento de acceso no autorizado;Bajo;192.168.1.235;admin;Pendiente
+2025-03-16 19:10:35.437873;Modificacionsospechosa de archivos;Alto;192.168.1.12;invitado;Investigacion
+2025-03-16 19:10:35.437844;Modificacionsospechosa de archivos;Medio;192.168.1.28;invitado;Resuelto
+2025-03-16 19:10:35.437584;Ataque de phishing detectado;Medio;192.168.1.190;admin;Resuelto
+2025-03-16 19:10:35.437575;Ataque de phishing detectado;Alto;192.168.1.120;usuario2;Mitigado
+2025-03-16 19:10:35.437562;Modificacionsospechosa de archivos;Medio;192.168.1.81;admin;Investigacion
+2025-03-16 19:10:35.437559;Modificacionsospechosa de archivos;Alto;192.168.1.11;admin;Mitigado
+2025-03-16 19:10:35.437458;Ataque de phishing detectado;Bajo;192.168.1.119;usuario3;Investigacion
+2025-03-16 19:10:35.437306;Deteccionde malware;Bajo;192.168.1.81;usuario2;Pendiente
+2025-03-15 19:10:35.438738;Ataque de phishing detectado;Alto;192.168.1.130;usuario1;Investigacion
+2025-03-15 19:10:35.438699;Ataque de phishing detectado;Bajo;192.168.1.182;usuario1;Investigacion
+2025-03-15 19:10:35.438581;Intento de acceso no autorizado;Bajo;192.168.1.76;usuario1;Investigacion
+2025-03-15 19:10:35.438565;Ataque de phishing detectado;Bajo;192.168.1.18;invitado;Investigacion
+2025-03-15 19:10:35.438530;Intento de acceso no autorizado;Bajo;192.168.1.181;usuario1;Pendiente
+2025-03-15 19:10:35.438510;Ataque de phishing detectado;Alto;192.168.1.233;soporte;Pendiente
+2025-03-15 19:10:35.438299;Intento de acceso no autorizado;Alto;192.168.1.214;soporte;Resuelto
+2025-03-15 19:10:35.438205;Deteccionde malware;Medio;192.168.1.245;usuario3;Investigacion
+2025-03-15 19:10:35.438132;Modificacionsospechosa de archivos;Medio;192.168.1.193;soporte;Investigacion
+2025-03-15 19:10:35.438057;Modificacionsospechosa de archivos;Bajo;192.168.1.6;usuario2;Mitigado
+2025-03-15 19:10:35.437991;Intento de acceso no autorizado;Critico;192.168.1.145;admin;Pendiente
+2025-03-15 19:10:35.437982;Anomalia en Traficode red;Critico;192.168.1.61;soporte;Mitigado
+2025-03-15 19:10:35.437956;Ataque de phishing detectado;Alto;192.168.1.185;usuario2;Resuelto
+2025-03-15 19:10:35.437815;Modificacionsospechosa de archivos;Bajo;192.168.1.10;invitado;Resuelto
+2025-03-15 19:10:35.437693;Anomalia en Traficode red;Alto;192.168.1.43;soporte;Mitigado
+2025-03-15 19:10:35.437603;Ataque de phishing detectado;Medio;192.168.1.235;soporte;Resuelto
+2025-03-15 19:10:35.437455;Intento de acceso no autorizado;Bajo;192.168.1.228;soporte;Pendiente
+2025-03-15 19:10:35.437404;Anomalia en Traficode red;Alto;192.168.1.49;usuario1;Mitigado
+2025-03-15 19:10:35.437374;Anomalia en Traficode red;Bajo;192.168.1.31;usuario2;Pendiente
+2025-03-15 19:10:35.437371;Anomalia en Traficode red;Critico;192.168.1.196;usuario2;Mitigado
+2025-03-15 19:10:35.437271;Intento de acceso no autorizado;Critico;192.168.1.71;usuario1;Mitigado
+2025-03-15 19:10:35.437229;Intento de acceso no autorizado;Bajo;192.168.1.53;admin;Investigacion
+2025-03-15 19:10:35.437226;Intento de acceso no autorizado;Critico;192.168.1.156;usuario1;Resuelto
+2025-03-14 19:10:35.438813;Deteccionde malware;Alto;192.168.1.239;admin;Mitigado
+2025-03-14 19:10:35.438572;Modificacionsospechosa de archivos;Medio;192.168.1.41;usuario3;Pendiente
+2025-03-14 19:10:35.438453;Ataque de phishing detectado;Bajo;192.168.1.235;usuario2;Mitigado
+2025-03-14 19:10:35.438401;Anomalia en Traficode red;Alto;192.168.1.219;usuario3;Resuelto
+2025-03-14 19:10:35.438372;Anomalia en Traficode red;Medio;192.168.1.208;soporte;Resuelto
+2025-03-14 19:10:35.438333;Modificacionsospechosa de archivos;Bajo;192.168.1.6;usuario1;Pendiente
+2025-03-14 19:10:35.438315;Modificacionsospechosa de archivos;Critico;192.168.1.41;usuario1;Investigacion
+2025-03-14 19:10:35.438054;Intento de acceso no autorizado;Alto;192.168.1.108;admin;Investigacion
+2025-03-14 19:10:35.437635;Modificacionsospechosa de archivos;Critico;192.168.1.134;usuario1;Investigacion
+2025-03-14 19:10:35.437615;Anomalia en Traficode red;Alto;192.168.1.136;usuario3;Mitigado
+2025-03-14 19:10:35.437577;Anomalia en Traficode red;Medio;192.168.1.204;usuario3;Pendiente
+2025-03-14 19:10:35.437504;Ataque de phishing detectado;Medio;192.168.1.234;usuario3;Pendiente
+2025-03-14 19:10:35.437249;Deteccionde malware;Alto;192.168.1.187;admin;Pendiente
+2025-03-14 19:10:35.437203;Modificacionsospechosa de archivos;Critico;192.168.1.99;usuario2;Mitigado
+2025-03-13 19:10:35.438689;Deteccionde malware;Bajo;192.168.1.254;usuario3;Mitigado
+2025-03-13 19:10:35.438631;Anomalia en Traficode red;Alto;192.168.1.55;soporte;Pendiente
+2025-03-13 19:10:35.438192;Deteccionde malware;Medio;192.168.1.118;soporte;Investigacion
+2025-03-13 19:10:35.438024;Modificacionsospechosa de archivos;Medio;192.168.1.31;usuario1;Investigacion
+2025-03-13 19:10:35.437969;Deteccionde malware;Bajo;192.168.1.192;usuario2;Pendiente
+2025-03-13 19:10:35.437917;Intento de acceso no autorizado;Bajo;192.168.1.197;usuario2;Mitigado
+2025-03-13 19:10:35.437728;Modificacionsospechosa de archivos;Critico;192.168.1.251;admin;Investigacion
+2025-03-13 19:10:35.437664;Modificacionsospechosa de archivos;Alto;192.168.1.200;invitado;Pendiente
+2025-03-13 19:10:35.437619;Ataque de phishing detectado;Medio;192.168.1.252;soporte;Investigacion
+2025-03-13 19:10:35.437591;Ataque de phishing detectado;Medio;192.168.1.181;usuario3;Mitigado
+2025-03-13 19:10:35.437581;Modificacionsospechosa de archivos;Medio;192.168.1.10;usuario2;Pendiente
+2025-03-13 19:10:35.437472;Ataque de phishing detectado;Medio;192.168.1.118;usuario2;Pendiente
+2025-03-13 19:10:35.437439;Ataque de phishing detectado;Bajo;192.168.1.178;invitado;Pendiente
+2025-03-13 19:10:35.437419;Modificacionsospechosa de archivos;Medio;192.168.1.184;usuario3;Pendiente
+2025-03-12 19:10:35.438672;Deteccionde malware;Bajo;192.168.1.128;usuario1;Investigacion
+2025-03-12 19:10:35.438507;Ataque de phishing detectado;Bajo;192.168.1.34;admin;Investigacion
+2025-03-12 19:10:35.438450;Anomalia en Traficode red;Alto;192.168.1.229;admin;Resuelto
+2025-03-12 19:10:35.438253;Intento de acceso no autorizado;Critico;192.168.1.171;admin;Pendiente
+2025-03-12 19:10:35.438250;Deteccionde malware;Medio;192.168.1.94;invitado;Resuelto
+2025-03-12 19:10:35.438243;Modificacionsospechosa de archivos;Critico;192.168.1.99;usuario2;Investigacion
+2025-03-12 19:10:35.438231;Anomalia en Traficode red;Alto;192.168.1.86;usuario3;Pendiente
+2025-03-12 19:10:35.438224;Ataque de phishing detectado;Critico;192.168.1.114;admin;Resuelto
+2025-03-12 19:10:35.438103;Ataque de phishing detectado;Critico;192.168.1.124;invitado;Mitigado
+2025-03-12 19:10:35.438070;Anomalia en Traficode red;Alto;192.168.1.9;invitado;Resuelto
+2025-03-12 19:10:35.438044;Deteccionde malware;Bajo;192.168.1.130;usuario3;Mitigado
+2025-03-12 19:10:35.438037;Anomalia en Traficode red;Bajo;192.168.1.7;usuario2;Mitigado
+2025-03-12 19:10:35.437972;Modificacionsospechosa de archivos;Bajo;192.168.1.184;usuario2;Pendiente
+2025-03-12 19:10:35.437950;Intento de acceso no autorizado;Medio;192.168.1.65;soporte;Mitigado
+2025-03-12 19:10:35.437928;Modificacionsospechosa de archivos;Bajo;192.168.1.53;invitado;Mitigado
+2025-03-12 19:10:35.437780;Anomalia en Traficode red;Medio;192.168.1.133;usuario1;Resuelto
+2025-03-12 19:10:35.437741;Anomalia en Traficode red;Critico;192.168.1.69;usuario1;Investigacion
+2025-03-12 19:10:35.437668;Intento de acceso no autorizado;Alto;192.168.1.29;invitado;Investigacion
+2025-03-12 19:10:35.437478;Ataque de phishing detectado;Critico;192.168.1.155;usuario1;Pendiente
+2025-03-12 19:10:35.437282;Modificacionsospechosa de archivos;Medio;192.168.1.30;usuario2;Investigacion
+2025-03-12 19:10:35.437255;Ataque de phishing detectado;Critico;192.168.1.225;usuario3;Mitigado
+2025-03-12 19:10:35.437239;Deteccionde malware;Bajo;192.168.1.150;admin;Resuelto
+2025-03-12 19:10:35.437222;Anomalia en Traficode red;Bajo;192.168.1.232;usuario1;Pendiente
+2025-03-11 19:10:35.438800;Ataque de phishing detectado;Bajo;192.168.1.245;usuario1;Resuelto
+2025-03-11 19:10:35.438768;Modificacionsospechosa de archivos;Bajo;192.168.1.7;usuario3;Mitigado
+2025-03-11 19:10:35.438731;Anomalia en Traficode red;Medio;192.168.1.149;invitado;Pendiente
+2025-03-11 19:10:35.438696;Intento de acceso no autorizado;Bajo;192.168.1.149;soporte;Investigacion
+2025-03-11 19:10:35.438536;Deteccionde malware;Medio;192.168.1.36;usuario1;Pendiente
+2025-03-11 19:10:35.438340;Modificacionsospechosa de archivos;Critico;192.168.1.3;soporte;Mitigado
+2025-03-11 19:10:35.438073;Intento de acceso no autorizado;Medio;192.168.1.203;usuario2;Mitigado
+2025-03-11 19:10:35.438040;Intento de acceso no autorizado;Alto;192.168.1.40;usuario1;Pendiente
+2025-03-11 19:10:35.437803;Deteccionde malware;Medio;192.168.1.165;usuario3;Resuelto
+2025-03-11 19:10:35.437446;Ataque de phishing detectado;Bajo;192.168.1.192;invitado;Resuelto
+2025-03-11 19:10:35.437407;Anomalia en Traficode red;Medio;192.168.1.181;usuario1;Investigacion
+2025-03-11 19:10:35.437394;Ataque de phishing detectado;Critico;192.168.1.123;usuario3;Resuelto
+2025-03-10 19:10:35.438810;Anomalia en Traficode red;Bajo;192.168.1.47;usuario2;Mitigado
+2025-03-10 19:10:35.438686;Ataque de phishing detectado;Alto;192.168.1.202;usuario1;Investigacion
+2025-03-10 19:10:35.438549;Anomalia en Traficode red;Critico;192.168.1.92;usuario1;Mitigado
+2025-03-10 19:10:35.438478;Modificacionsospechosa de archivos;Alto;192.168.1.74;admin;Resuelto
+2025-03-10 19:10:35.438171;Modificacionsospechosa de archivos;Critico;192.168.1.162;usuario1;Mitigado
+2025-03-10 19:10:35.438116;Modificacionsospechosa de archivos;Medio;192.168.1.1;usuario1;Resuelto
+2025-03-10 19:10:35.437870;Ataque de phishing detectado;Alto;192.168.1.92;soporte;Investigacion
+2025-03-10 19:10:35.437829;Anomalia en Traficode red;Medio;192.168.1.186;usuario1;Mitigado
+2025-03-10 19:10:35.437658;Ataque de phishing detectado;Bajo;192.168.1.251;admin;Pendiente
+2025-03-10 19:10:35.437565;Ataque de phishing detectado;Critico;192.168.1.164;soporte;Resuelto
+2025-03-10 19:10:35.437491;Modificacionsospechosa de archivos;Critico;192.168.1.208;usuario1;Resuelto
+2025-03-10 19:10:35.437488;Modificacionsospechosa de archivos;Alto;192.168.1.220;soporte;Resuelto
+2025-03-10 19:10:35.437410;Deteccionde malware;Critico;192.168.1.179;soporte;Pendiente
+2025-03-10 19:10:35.437323;Ataque de phishing detectado;Medio;192.168.1.219;usuario3;Pendiente
+2025-03-10 19:10:35.437173;Deteccionde malware;Medio;192.168.1.190;admin;Resuelto
+2025-03-09 19:10:35.438803;Anomalia en Traficode red;Critico;192.168.1.235;usuario1;Investigacion
+2025-03-09 19:10:35.438601;Intento de acceso no autorizado;Bajo;192.168.1.138;usuario1;Investigacion
+2025-03-09 19:10:35.438385;Anomalia en Traficode red;Alto;192.168.1.64;usuario1;Mitigado
+2025-03-09 19:10:35.438247;Deteccionde malware;Alto;192.168.1.246;usuario1;Resuelto
+2025-03-09 19:10:35.438234;Deteccionde malware;Alto;192.168.1.3;usuario3;Investigacion
+2025-03-09 19:10:35.438189;Modificacionsospechosa de archivos;Bajo;192.168.1.145;usuario2;Investigacion
+2025-03-09 19:10:35.438186;Intento de acceso no autorizado;Bajo;192.168.1.58;admin;Mitigado
+2025-03-09 19:10:35.437975;Modificacionsospechosa de archivos;Critico;192.168.1.48;usuario2;Mitigado
+2025-03-09 19:10:35.437947;Intento de acceso no autorizado;Critico;192.168.1.116;soporte;Investigacion
+2025-03-09 19:10:35.437757;Deteccionde malware;Critico;192.168.1.232;admin;Mitigado
+2025-03-09 19:10:35.437661;Ataque de phishing detectado;Alto;192.168.1.131;invitado;Mitigado
+2025-03-09 19:10:35.437555;Deteccionde malware;Alto;192.168.1.249;usuario2;Resuelto
+2025-03-09 19:10:35.437510;Anomalia en Traficode red;Alto;192.168.1.104;admin;Mitigado
+2025-03-09 19:10:35.437433;Modificacionsospechosa de archivos;Medio;192.168.1.38;usuario3;Mitigado
+2025-03-09 19:10:35.437397;Deteccionde malware;Alto;192.168.1.191;usuario1;Mitigado
+2025-03-09 19:10:35.437292;Modificacionsospechosa de archivos;Medio;192.168.1.17;usuario1;Mitigado
+2025-03-08 19:10:35.438625;Modificacionsospechosa de archivos;Bajo;192.168.1.207;admin;Resuelto
+2025-03-08 19:10:35.438513;Deteccionde malware;Critico;192.168.1.196;invitado;Investigacion
+2025-03-08 19:10:35.438440;Anomalia en Traficode red;Alto;192.168.1.65;usuario1;Resuelto
+2025-03-08 19:10:35.438434;Deteccionde malware;Alto;192.168.1.235;invitado;Pendiente
+2025-03-08 19:10:35.438375;Intento de acceso no autorizado;Alto;192.168.1.247;usuario3;Investigacion
+2025-03-08 19:10:35.438359;Ataque de phishing detectado;Critico;192.168.1.153;usuario2;Pendiente
+2025-03-08 19:10:35.438272;Modificacionsospechosa de archivos;Bajo;192.168.1.196;usuario3;Pendiente
+2025-03-08 19:10:35.438227;Modificacionsospechosa de archivos;Alto;192.168.1.81;soporte;Resuelto
+2025-03-08 19:10:35.438182;Deteccionde malware;Alto;192.168.1.44;usuario1;Pendiente
+2025-03-08 19:10:35.438031;Modificacionsospechosa de archivos;Critico;192.168.1.234;usuario2;Mitigado
+2025-03-08 19:10:35.437959;Intento de acceso no autorizado;Critico;192.168.1.89;usuario2;Mitigado
+2025-03-08 19:10:35.437937;Ataque de phishing detectado;Alto;192.168.1.167;usuario1;Mitigado
+2025-03-08 19:10:35.437540;Intento de acceso no autorizado;Bajo;192.168.1.87;admin;Resuelto
+2025-03-08 19:10:35.437501;Modificacionsospechosa de archivos;Alto;192.168.1.52;admin;Investigacion
+2025-03-08 19:10:35.437401;Deteccionde malware;Alto;192.168.1.234;usuario3;Investigacion
+2025-03-07 19:10:35.438796;Ataque de phishing detectado;Critico;192.168.1.32;soporte;Mitigado
+2025-03-07 19:10:35.438749;Anomalia en Traficode red;Alto;192.168.1.160;admin;Resuelto
+2025-03-07 19:10:35.438665;Deteccionde malware;Alto;192.168.1.166;invitado;Mitigado
+2025-03-07 19:10:35.438407;Anomalia en Traficode red;Critico;192.168.1.141;soporte;Pendiente
+2025-03-07 19:10:35.438353;Ataque de phishing detectado;Bajo;192.168.1.181;soporte;Investigacion
+2025-03-07 19:10:35.438269;Intento de acceso no autorizado;Medio;192.168.1.246;soporte;Investigacion
+2025-03-07 19:10:35.438122;Ataque de phishing detectado;Bajo;192.168.1.245;soporte;Mitigado
+2025-03-07 19:10:35.438090;Modificacionsospechosa de archivos;Medio;192.168.1.180;usuario2;Pendiente
+2025-03-07 19:10:35.438018;Ataque de phishing detectado;Critico;192.168.1.232;usuario3;Resuelto
+2025-03-07 19:10:35.438011;Anomalia en Traficode red;Bajo;192.168.1.202;usuario1;Mitigado
+2025-03-07 19:10:35.437978;Modificacionsospechosa de archivos;Bajo;192.168.1.106;usuario1;Pendiente
+2025-03-07 19:10:35.437796;Ataque de phishing detectado;Critico;192.168.1.24;usuario2;Mitigado
+2025-03-07 19:10:35.437747;Anomalia en Traficode red;Critico;192.168.1.76;usuario2;Mitigado
+2025-03-07 19:10:35.437712;Modificacionsospechosa de archivos;Medio;192.168.1.226;usuario1;Mitigado
+2025-03-07 19:10:35.437677;Intento de acceso no autorizado;Bajo;192.168.1.46;soporte;Investigacion
+2025-03-06 19:10:35.438819;Modificacionsospechosa de archivos;Bajo;192.168.1.20;admin;Mitigado
+2025-03-06 19:10:35.438777;Anomalia en Traficode red;Bajo;192.168.1.202;usuario2;Mitigado
+2025-03-06 19:10:35.438754;Intento de acceso no autorizado;Bajo;192.168.1.159;admin;Pendiente
+2025-03-06 19:10:35.438702;Intento de acceso no autorizado;Bajo;192.168.1.188;admin;Resuelto
+2025-03-06 19:10:35.438526;Ataque de phishing detectado;Alto;192.168.1.72;admin;Mitigado
+2025-03-06 19:10:35.438517;Modificacionsospechosa de archivos;Alto;192.168.1.28;usuario2;Resuelto
+2025-03-06 19:10:35.438447;Deteccionde malware;Alto;192.168.1.248;soporte;Mitigado
+2025-03-06 19:10:35.438404;Anomalia en Traficode red;Bajo;192.168.1.177;admin;Investigacion
+2025-03-06 19:10:35.438289;Intento de acceso no autorizado;Medio;192.168.1.72;usuario1;Resuelto
+2025-03-06 19:10:35.438282;Deteccionde malware;Critico;192.168.1.135;usuario1;Resuelto
+2025-03-06 19:10:35.438161;Intento de acceso no autorizado;Alto;192.168.1.67;usuario2;Investigacion
+2025-03-06 19:10:35.438155;Ataque de phishing detectado;Medio;192.168.1.95;usuario1;Mitigado
+2025-03-06 19:10:35.438151;Intento de acceso no autorizado;Medio;192.168.1.111;soporte;Mitigado
+2025-03-06 19:10:35.437908;Modificacionsospechosa de archivos;Alto;192.168.1.31;soporte;Investigacion
+2025-03-06 19:10:35.437818;Modificacionsospechosa de archivos;Bajo;192.168.1.92;usuario3;Investigacion
+2025-03-06 19:10:35.437520;Intento de acceso no autorizado;Medio;192.168.1.72;usuario3;Investigacion
+2025-03-06 19:10:35.437442;Anomalia en Traficode red;Alto;192.168.1.133;invitado;Mitigado
+2025-03-06 19:10:35.437368;Deteccionde malware;Alto;192.168.1.25;usuario1;Pendiente
+2025-03-06 19:10:35.437355;Deteccionde malware;Medio;192.168.1.31;usuario2;Resuelto
+2025-03-06 19:10:35.437342;Modificacionsospechosa de archivos;Alto;192.168.1.215;usuario3;Mitigado
+2025-03-05 19:10:35.438709;Ataque de phishing detectado;Critico;192.168.1.62;usuario3;Pendiente
+2025-03-05 19:10:35.438594;Anomalia en Traficode red;Critico;192.168.1.46;invitado;Investigacion
+2025-03-05 19:10:35.438421;Modificacionsospechosa de archivos;Critico;192.168.1.185;usuario3;Pendiente
+2025-03-05 19:10:35.438028;Anomalia en Traficode red;Medio;192.168.1.113;usuario1;Mitigado
+2025-03-05 19:10:35.437988;Deteccionde malware;Critico;192.168.1.89;usuario1;Investigacion
+2025-03-05 19:10:35.437898;Intento de acceso no autorizado;Alto;192.168.1.71;usuario1;Investigacion
+2025-03-05 19:10:35.437879;Ataque de phishing detectado;Medio;192.168.1.167;usuario3;Resuelto
+2025-03-05 19:10:35.437876;Intento de acceso no autorizado;Critico;192.168.1.202;admin;Pendiente
+2025-03-05 19:10:35.437770;Ataque de phishing detectado;Alto;192.168.1.130;usuario3;Pendiente
+2025-03-05 19:10:35.437329;Anomalia en Traficode red;Critico;192.168.1.128;usuario2;Pendiente
+2025-03-05 19:10:35.437265;Anomalia en Traficode red;Alto;192.168.1.245;invitado;Investigacion
+2025-03-05 19:10:35.437199;Intento de acceso no autorizado;Medio;192.168.1.53;invitado;Investigacion
+2025-03-04 19:10:35.438604;Ataque de phishing detectado;Bajo;192.168.1.187;admin;Pendiente
+2025-03-04 19:10:35.438588;Anomalia en Traficode red;Alto;192.168.1.3;admin;Mitigado
+2025-03-04 19:10:35.438539;Deteccionde malware;Medio;192.168.1.22;admin;Mitigado
+2025-03-04 19:10:35.438504;Modificacionsospechosa de archivos;Bajo;192.168.1.203;usuario1;Pendiente
+2025-03-04 19:10:35.438491;Intento de acceso no autorizado;Medio;192.168.1.239;invitado;Pendiente
+2025-03-04 19:10:35.438369;Deteccionde malware;Bajo;192.168.1.250;admin;Resuelto
+2025-03-04 19:10:35.437914;Anomalia en Traficode red;Bajo;192.168.1.11;invitado;Mitigado
+2025-03-04 19:10:35.437822;Anomalia en Traficode red;Alto;192.168.1.7;usuario1;Mitigado
+2025-03-04 19:10:35.437809;Anomalia en Traficode red;Bajo;192.168.1.128;soporte;Mitigado
+2025-03-04 19:10:35.437699;Modificacionsospechosa de archivos;Alto;192.168.1.18;soporte;Investigacion
+2025-03-04 19:10:35.437481;Anomalia en Traficode red;Critico;192.168.1.129;admin;Investigacion
+2025-03-04 19:10:35.437206;Modificacionsospechosa de archivos;Bajo;192.168.1.219;usuario2;Investigacion
+2025-03-03 19:10:35.438751;Ataque de phishing detectado;Alto;192.168.1.239;usuario3;Investigacion
+2025-03-03 19:10:35.438202;Modificacionsospechosa de archivos;Medio;192.168.1.71;admin;Resuelto
+2025-03-03 19:10:35.438176;Anomalia en Traficode red;Bajo;192.168.1.128;usuario3;Investigacion
+2025-03-03 19:10:35.438145;Anomalia en Traficode red;Medio;192.168.1.26;usuario2;Mitigado
+2025-03-03 19:10:35.438119;Ataque de phishing detectado;Bajo;192.168.1.118;usuario2;Mitigado
+2025-03-03 19:10:35.437832;Modificacionsospechosa de archivos;Medio;192.168.1.71;usuario3;Investigacion
+2025-03-03 19:10:35.437744;Intento de acceso no autorizado;Bajo;192.168.1.30;usuario3;Mitigado
+2025-03-03 19:10:35.437709;Deteccionde malware;Critico;192.168.1.232;usuario1;Investigacion
+2025-03-03 19:10:35.437690;Modificacionsospechosa de archivos;Bajo;192.168.1.86;invitado;Mitigado
+2025-03-03 19:10:35.437625;Anomalia en Traficode red;Medio;192.168.1.32;usuario2;Resuelto
+2025-03-03 19:10:35.437606;Anomalia en Traficode red;Bajo;192.168.1.56;invitado;Investigacion
+2025-03-03 19:10:35.437449;Modificacionsospechosa de archivos;Alto;192.168.1.42;admin;Resuelto
+2025-03-03 19:10:35.437426;Intento de acceso no autorizado;Medio;192.168.1.123;usuario3;Investigacion
+2025-03-03 19:10:35.437358;Ataque de phishing detectado;Critico;192.168.1.12;usuario1;Resuelto
+2025-03-03 19:10:35.437336;Intento de acceso no autorizado;Critico;192.168.1.224;usuario3;Resuelto
+2025-03-02 19:10:35.438780;Intento de acceso no autorizado;Medio;192.168.1.9;usuario1;Resuelto
+2025-03-02 19:10:35.438774;Ataque de phishing detectado;Critico;192.168.1.235;admin;Resuelto
+2025-03-02 19:10:35.438598;Anomalia en Traficode red;Critico;192.168.1.112;admin;Pendiente
+2025-03-02 19:10:35.438286;Intento de acceso no autorizado;Alto;192.168.1.171;admin;Resuelto
+2025-03-02 19:10:35.438256;Deteccionde malware;Critico;192.168.1.71;usuario1;Resuelto
+2025-03-02 19:10:35.438208;Modificacionsospechosa de archivos;Critico;192.168.1.187;admin;Pendiente
+2025-03-02 19:10:35.438064;Deteccionde malware;Critico;192.168.1.209;soporte;Mitigado
+2025-03-02 19:10:35.437963;Modificacionsospechosa de archivos;Alto;192.168.1.43;usuario1;Pendiente
+2025-03-02 19:10:35.437892;Modificacionsospechosa de archivos;Medio;192.168.1.221;usuario1;Resuelto
+2025-03-02 19:10:35.437838;Ataque de phishing detectado;Medio;192.168.1.109;admin;Pendiente
+2025-03-02 19:10:35.437835;Modificacionsospechosa de archivos;Medio;192.168.1.49;soporte;Resuelto
+2025-03-02 19:10:35.437825;Ataque de phishing detectado;Medio;192.168.1.245;usuario1;Pendiente
+2025-03-02 19:10:35.437789;Anomalia en Traficode red;Medio;192.168.1.198;invitado;Resuelto
+2025-03-02 19:10:35.437587;Ataque de phishing detectado;Critico;192.168.1.251;usuario1;Investigacion
+2025-03-02 19:10:35.437416;Intento de acceso no autorizado;Alto;192.168.1.195;soporte;Investigacion
+2025-03-02 19:10:35.437268;Anomalia en Traficode red;Critico;192.168.1.78;usuario1;Pendiente
+2025-03-02 19:10:35.437219;Modificacionsospechosa de archivos;Medio;192.168.1.210;admin;Pendiente
+2025-03-02 19:10:35.437161;Anomalia en Traficode red;Medio;192.168.1.219;usuario1;Mitigado
+2025-03-02 19:10:35.437130;Deteccionde malware;Bajo;192.168.1.59;usuario3;Resuelto
+2025-03-01 19:10:35.438771;Anomalia en Traficode red;Alto;192.168.1.136;invitado;Mitigado
+2025-03-01 19:10:35.438741;Deteccionde malware;Critico;192.168.1.215;admin;Pendiente
+2025-03-01 19:10:35.438725;Ataque de phishing detectado;Medio;192.168.1.98;usuario2;Mitigado
+2025-03-01 19:10:35.438662;Anomalia en Traficode red;Critico;192.168.1.75;admin;Resuelto
+2025-03-01 19:10:35.438326;Ataque de phishing detectado;Bajo;192.168.1.39;invitado;Investigacion
+2025-03-01 19:10:35.438214;Anomalia en Traficode red;Alto;192.168.1.192;invitado;Pendiente
+2025-03-01 19:10:35.438164;Deteccionde malware;Medio;192.168.1.219;admin;Investigacion
+2025-03-01 19:10:35.438129;Deteccionde malware;Critico;192.168.1.34;soporte;Mitigado
+2025-03-01 19:10:35.438093;Modificacionsospechosa de archivos;Critico;192.168.1.58;admin;Pendiente
+2025-03-01 19:10:35.438008;Ataque de phishing detectado;Bajo;192.168.1.17;invitado;Resuelto
+2025-03-01 19:10:35.438001;Ataque de phishing detectado;Bajo;192.168.1.27;usuario3;Pendiente
+2025-03-01 19:10:35.437882;Ataque de phishing detectado;Alto;192.168.1.17;soporte;Resuelto
+2025-03-01 19:10:35.437860;Intento de acceso no autorizado;Bajo;192.168.1.22;usuario1;Resuelto
+2025-03-01 19:10:35.437848;Ataque de phishing detectado;Medio;192.168.1.230;usuario2;Mitigado
+2025-03-01 19:10:35.437841;Anomalia en Traficode red;Alto;192.168.1.85;invitado;Pendiente
+2025-03-01 19:10:35.437599;Deteccionde malware;Alto;192.168.1.74;usuario2;Investigacion
+2025-03-01 19:10:35.437516;Ataque de phishing detectado;Critico;192.168.1.40;invitado;Mitigado
+2025-02-28 19:10:35.438790;Deteccionde malware;Alto;192.168.1.94;usuario2;Mitigado
+2025-02-28 19:10:35.438787;Anomalia en Traficode red;Alto;192.168.1.116;usuario3;Mitigado
+2025-02-28 19:10:35.438728;Intento de acceso no autorizado;Bajo;192.168.1.238;admin;Mitigado
+2025-02-28 19:10:35.438692;Anomalia en Traficode red;Alto;192.168.1.128;usuario1;Pendiente
+2025-02-28 19:10:35.438424;Deteccionde malware;Alto;192.168.1.194;invitado;Resuelto
+2025-02-28 19:10:35.438414;Modificacionsospechosa de archivos;Medio;192.168.1.83;usuario3;Pendiente
+2025-02-28 19:10:35.438343;Modificacionsospechosa de archivos;Medio;192.168.1.20;soporte;Pendiente
+2025-02-28 19:10:35.438211;Modificacionsospechosa de archivos;Bajo;192.168.1.45;invitado;Resuelto
+2025-02-28 19:10:35.438138;Ataque de phishing detectado;Critico;192.168.1.242;usuario2;Investigacion
+2025-02-28 19:10:35.437594;Deteccionde malware;Bajo;192.168.1.146;invitado;Resuelto
+2025-02-28 19:10:35.437485;Modificacionsospechosa de archivos;Alto;192.168.1.230;admin;Mitigado
+2025-02-28 19:10:35.437286;Modificacionsospechosa de archivos;Alto;192.168.1.132;usuario1;Investigacion
+2025-02-28 19:10:35.437233;Deteccionde malware;Bajo;192.168.1.105;admin;Investigacion
+2025-02-27 19:10:35.438761;Modificacionsospechosa de archivos;Alto;192.168.1.52;invitado;Investigacion
+2025-02-27 19:10:35.438712;Intento de acceso no autorizado;Medio;192.168.1.127;invitado;Mitigado
+2025-02-27 19:10:35.438466;Intento de acceso no autorizado;Critico;192.168.1.83;usuario1;Resuelto
+2025-02-27 19:10:35.438378;Ataque de phishing detectado;Critico;192.168.1.217;soporte;Investigacion
+2025-02-27 19:10:35.438346;Deteccionde malware;Alto;192.168.1.158;soporte;Mitigado
+2025-02-27 19:10:35.438141;Intento de acceso no autorizado;Medio;192.168.1.242;invitado;Resuelto
+2025-02-27 19:10:35.438096;Modificacionsospechosa de archivos;Medio;192.168.1.132;usuario3;Pendiente
+2025-02-27 19:10:35.437851;Modificacionsospechosa de archivos;Alto;192.168.1.61;usuario2;Mitigado
+2025-02-27 19:10:35.437436;Anomalia en Traficode red;Medio;192.168.1.177;admin;Resuelto
+2025-02-27 19:10:35.437429;Deteccionde malware;Alto;192.168.1.15;usuario3;Pendiente
+2025-02-27 19:10:35.437388;Anomalia en Traficode red;Bajo;192.168.1.124;usuario3;Investigacion
+2025-02-27 19:10:35.437361;Modificacionsospechosa de archivos;Bajo;192.168.1.230;usuario1;Resuelto
+2025-02-27 19:10:35.437332;Deteccionde malware;Bajo;192.168.1.111;usuario1;Pendiente
+2025-02-27 19:10:35.437296;Intento de acceso no autorizado;Medio;192.168.1.115;invitado;Pendiente
+2025-02-26 19:10:35.438806;Ataque de phishing detectado;Medio;192.168.1.38;usuario3;Pendiente
+2025-02-26 19:10:35.438719;Intento de acceso no autorizado;Medio;192.168.1.38;usuario3;Mitigado
+2025-02-26 19:10:35.438585;Ataque de phishing detectado;Alto;192.168.1.124;invitado;Resuelto
+2025-02-26 19:10:35.438562;Ataque de phishing detectado;Critico;192.168.1.189;invitado;Mitigado
+2025-02-26 19:10:35.438556;Intento de acceso no autorizado;Alto;192.168.1.172;admin;Pendiente
+2025-02-26 19:10:35.438520;Deteccionde malware;Bajo;192.168.1.31;usuario1;Investigacion
+2025-02-26 19:10:35.438430;Anomalia en Traficode red;Bajo;192.168.1.225;usuario2;Mitigado
+2025-02-26 19:10:35.438394;Modificacionsospechosa de archivos;Alto;192.168.1.152;usuario1;Resuelto
+2025-02-26 19:10:35.438349;Deteccionde malware;Alto;192.168.1.104;invitado;Investigacion
+2025-02-26 19:10:35.438198;Anomalia en Traficode red;Critico;192.168.1.100;usuario2;Mitigado
+2025-02-26 19:10:35.438080;Deteccionde malware;Alto;192.168.1.51;usuario1;Pendiente
+2025-02-26 19:10:35.437940;Anomalia en Traficode red;Critico;192.168.1.82;invitado;Investigacion
+2025-02-26 19:10:35.437934;Deteccionde malware;Alto;192.168.1.24;admin;Investigacion
+2025-02-26 19:10:35.437799;Intento de acceso no autorizado;Alto;192.168.1.234;usuario2;Resuelto
+2025-02-26 19:10:35.437763;Ataque de phishing detectado;Critico;192.168.1.86;soporte;Mitigado
+2025-02-26 19:10:35.437715;Anomalia en Traficode red;Critico;192.168.1.179;usuario2;Pendiente
+2025-02-26 19:10:35.437703;Intento de acceso no autorizado;Critico;192.168.1.186;admin;Mitigado
+2025-02-26 19:10:35.437641;Ataque de phishing detectado;Bajo;192.168.1.127;admin;Mitigado
+2025-02-26 19:10:35.437527;Modificacionsospechosa de archivos;Alto;192.168.1.93;soporte;Mitigado
+2025-02-26 19:10:35.437413;Deteccionde malware;Critico;192.168.1.221;admin;Mitigado
+2025-02-26 19:10:35.437320;Deteccionde malware;Medio;192.168.1.145;invitado;Pendiente
+2025-02-25 19:10:35.438681;Ataque de phishing detectado;Alto;192.168.1.74;admin;Investigacion
+2025-02-25 19:10:35.438533;Intento de acceso no autorizado;Medio;192.168.1.233;usuario2;Mitigado
+2025-02-25 19:10:35.438391;Modificacionsospechosa de archivos;Bajo;192.168.1.153;usuario3;Mitigado
+2025-02-25 19:10:35.438388;Deteccionde malware;Bajo;192.168.1.79;soporte;Investigacion
+2025-02-25 19:10:35.438296;Ataque de phishing detectado;Medio;192.168.1.247;usuario1;Pendiente
+2025-02-25 19:10:35.437754;Intento de acceso no autorizado;Critico;192.168.1.223;invitado;Pendiente
+2025-02-25 19:10:35.437731;Deteccionde malware;Critico;192.168.1.2;invitado;Investigacion
+2025-02-25 19:10:35.437632;Deteccionde malware;Critico;192.168.1.213;soporte;Resuelto
+2025-02-25 19:10:35.437536;Deteccionde malware;Alto;192.168.1.186;usuario1;Mitigado
+2025-02-25 19:10:35.437464;Intento de acceso no autorizado;Critico;192.168.1.72;soporte;Mitigado
+2025-02-25 19:10:35.437345;Ataque de phishing detectado;Bajo;192.168.1.134;usuario3;Investigacion
+2025-02-25 19:10:35.437165;Ataque de phishing detectado;Alto;192.168.1.209;admin;Resuelto
+2025-02-24 19:10:35.438784;Intento de acceso no autorizado;Critico;192.168.1.53;usuario3;Investigacion
+2025-02-24 19:10:35.438722;Deteccionde malware;Alto;192.168.1.10;soporte;Investigacion
+2025-02-24 19:10:35.438591;Modificacionsospechosa de archivos;Alto;192.168.1.152;usuario1;Pendiente
+2025-02-24 19:10:35.438463;Modificacionsospechosa de archivos;Bajo;192.168.1.72;soporte;Mitigado
+2025-02-24 19:10:35.438411;Modificacionsospechosa de archivos;Bajo;192.168.1.150;usuario2;Investigacion
+2025-02-24 19:10:35.438311;Deteccionde malware;Bajo;192.168.1.67;usuario3;Mitigado
+2025-02-24 19:10:35.438086;Ataque de phishing detectado;Bajo;192.168.1.234;usuario2;Mitigado
+2025-02-24 19:10:35.437911;Anomalia en Traficode red;Critico;192.168.1.195;soporte;Resuelto
+2025-02-24 19:10:35.437867;Anomalia en Traficode red;Critico;192.168.1.100;usuario1;Resuelto
+2025-02-24 19:10:35.437725;Ataque de phishing detectado;Critico;192.168.1.196;invitado;Mitigado
+2025-02-24 19:10:35.437696;Anomalia en Traficode red;Alto;192.168.1.233;soporte;Mitigado
+2025-02-24 19:10:35.437498;Deteccionde malware;Bajo;192.168.1.132;usuario2;Resuelto
+2025-02-24 19:10:35.437468;Deteccionde malware;Bajo;192.168.1.113;usuario3;Mitigado
+2025-02-24 19:10:35.437364;Anomalia en Traficode red;Critico;192.168.1.134;soporte;Resuelto
+2025-02-24 19:10:35.437289;Anomalia en Traficode red;Alto;192.168.1.198;admin;Investigacion
+2025-02-23 19:10:35.438706;Intento de acceso no autorizado;Critico;192.168.1.94;invitado;Pendiente
+2025-02-23 19:10:35.438542;Deteccionde malware;Medio;192.168.1.123;usuario2;Mitigado
+2025-02-23 19:10:35.438481;Anomalia en Traficode red;Alto;192.168.1.50;admin;Pendiente
+2025-02-23 19:10:35.438168;Deteccionde malware;Alto;192.168.1.199;soporte;Mitigado
+2025-02-23 19:10:35.438106;Anomalia en Traficode red;Critico;192.168.1.127;admin;Resuelto
+2025-02-23 19:10:35.438067;Modificacionsospechosa de archivos;Medio;192.168.1.145;admin;Mitigado
+2025-02-23 19:10:35.438014;Intento de acceso no autorizado;Bajo;192.168.1.228;usuario1;Mitigado
+2025-02-23 19:10:35.437994;Deteccionde malware;Medio;192.168.1.159;admin;Resuelto
+2025-02-23 19:10:35.437921;Intento de acceso no autorizado;Bajo;192.168.1.2;invitado;Investigacion
+2025-02-23 19:10:35.437863;Deteccionde malware;Alto;192.168.1.97;usuario3;Resuelto
+2025-02-23 19:10:35.437812;Ataque de phishing detectado;Alto;192.168.1.101;usuario3;Investigacion
+2025-02-23 19:10:35.437776;Anomalia en Traficode red;Alto;192.168.1.123;soporte;Mitigado
+2025-02-23 19:10:35.437751;Deteccionde malware;Critico;192.168.1.165;admin;Pendiente
+2025-02-23 19:10:35.437651;Intento de acceso no autorizado;Alto;192.168.1.38;admin;Resuelto
+2025-02-23 19:10:35.437628;Intento de acceso no autorizado;Alto;192.168.1.239;soporte;Resuelto
+2025-02-23 19:10:35.437310;Anomalia en Traficode red;Bajo;192.168.1.18;usuario1;Resuelto
+2025-02-23 19:10:35.437302;Deteccionde malware;Bajo;192.168.1.239;admin;Investigacion
+2025-02-23 19:10:35.437275;Modificacionsospechosa de archivos;Bajo;192.168.1.2;admin;Mitigado
+2025-02-22 19:10:35.438816;Deteccionde malware;Critico;192.168.1.35;usuario1;Resuelto
+2025-02-22 19:10:35.438793;Ataque de phishing detectado;Medio;192.168.1.20;invitado;Investigacion
+2025-02-22 19:10:35.438546;Ataque de phishing detectado;Critico;192.168.1.249;usuario2;Investigacion
+2025-02-22 19:10:35.438398;Deteccionde malware;Bajo;192.168.1.32;invitado;Resuelto
+2025-02-22 19:10:35.438259;Ataque de phishing detectado;Bajo;192.168.1.82;soporte;Pendiente
+2025-02-22 19:10:35.438179;Intento de acceso no autorizado;Critico;192.168.1.60;soporte;Resuelto
+2025-02-22 19:10:35.438099;Anomalia en Traficode red;Alto;192.168.1.14;usuario1;Resuelto
+2025-02-22 19:10:35.438021;Deteccionde malware;Medio;192.168.1.150;admin;Mitigado
+2025-02-22 19:10:35.438004;Intento de acceso no autorizado;Critico;192.168.1.77;invitado;Investigacion
+2025-02-22 19:10:35.437901;Modificacionsospechosa de archivos;Alto;192.168.1.59;usuario1;Investigacion
+2025-02-22 19:10:35.437735;Anomalia en Traficode red;Medio;192.168.1.236;soporte;Pendiente
+2025-02-22 19:10:35.437686;Deteccionde malware;Bajo;192.168.1.224;usuario1;Investigacion
+2025-02-22 19:10:35.437648;Modificacionsospechosa de archivos;Alto;192.168.1.38;invitado;Investigacion
+2025-02-22 19:10:35.437597;Modificacionsospechosa de archivos;Critico;192.168.1.213;usuario2;Mitigado
+2025-02-22 19:10:35.437571;Deteccionde malware;Bajo;192.168.1.230;usuario2;Mitigado
+2025-02-22 19:10:35.437513;Modificacionsospechosa de archivos;Medio;192.168.1.208;soporte;Resuelto
+2025-02-22 19:10:35.437475;Deteccionde malware;Critico;192.168.1.137;usuario1;Investigacion
+2025-02-22 19:10:35.437377;Anomalia en Traficode red;Bajo;192.168.1.223;admin;Resuelto
+2025-02-22 19:10:35.437259;Anomalia en Traficode red;Bajo;192.168.1.197;usuario3;Investigacion
+2025-02-21 19:10:35.438615;Intento de acceso no autorizado;Bajo;192.168.1.104;usuario3;Mitigado
+2025-02-21 19:10:35.438569;Deteccionde malware;Critico;192.168.1.228;soporte;Investigacion
+2025-02-21 19:10:35.438523;Ataque de phishing detectado;Medio;192.168.1.129;admin;Investigacion
+2025-02-21 19:10:35.438497;Modificacionsospechosa de archivos;Bajo;192.168.1.218;usuario2;Mitigado
+2025-02-21 19:10:35.438365;Anomalia en Traficode red;Medio;192.168.1.125;usuario3;Pendiente
+2025-02-21 19:10:35.438336;Deteccionde malware;Medio;192.168.1.5;usuario1;Mitigado
+2025-02-21 19:10:35.438320;Deteccionde malware;Medio;192.168.1.77;admin;Resuelto
+2025-02-21 19:10:35.438292;Ataque de phishing detectado;Medio;192.168.1.4;usuario2;Resuelto
+2025-02-21 19:10:35.438266;Intento de acceso no autorizado;Bajo;192.168.1.20;invitado;Investigacion
+2025-02-21 19:10:35.438148;Deteccionde malware;Medio;192.168.1.225;usuario2;Resuelto
+2025-02-21 19:10:35.437783;Ataque de phishing detectado;Alto;192.168.1.186;usuario2;Resuelto
+2025-02-21 19:10:35.437609;Modificacionsospechosa de archivos;Medio;192.168.1.112;usuario2;Mitigado
+2025-02-21 19:10:35.437530;Deteccionde malware;Critico;192.168.1.139;usuario3;Resuelto
+2025-02-21 19:10:35.437381;Ataque de phishing detectado;Alto;192.168.1.43;invitado;Investigacion
+2025-02-21 19:10:35.437349;Ataque de phishing detectado;Critico;192.168.1.112;usuario3;Pendiente
+2025-02-20 19:10:35.438715;Intento de acceso no autorizado;Medio;192.168.1.60;usuario3;Resuelto
+2025-02-20 19:10:35.438678;Ataque de phishing detectado;Critico;192.168.1.196;admin;Investigacion
+2025-02-20 19:10:35.438635;Anomalia en Traficode red;Alto;192.168.1.111;invitado;Mitigado
+2025-02-20 19:10:35.438628;Deteccionde malware;Bajo;192.168.1.82;invitado;Pendiente
+2025-02-20 19:10:35.438607;Modificacionsospechosa de archivos;Critico;192.168.1.6;usuario3;Mitigado
+2025-02-20 19:10:35.438362;Intento de acceso no autorizado;Critico;192.168.1.133;admin;Resuelto
+2025-02-20 19:10:35.438217;Intento de acceso no autorizado;Critico;192.168.1.55;soporte;Resuelto
+2025-02-20 19:10:35.437985;Intento de acceso no autorizado;Bajo;192.168.1.61;admin;Investigacion
+2025-02-20 19:10:35.437931;Deteccionde malware;Critico;192.168.1.100;usuario2;Mitigado
+2025-02-20 19:10:35.437888;Intento de acceso no autorizado;Bajo;192.168.1.164;invitado;Pendiente
+2025-02-20 19:10:35.437857;Anomalia en Traficode red;Critico;192.168.1.227;invitado;Resuelto
+2025-02-20 19:10:35.437767;Anomalia en Traficode red;Critico;192.168.1.168;usuario3;Investigacion
+2025-02-20 19:10:35.437671;Deteccionde malware;Critico;192.168.1.184;soporte;Mitigado
+2025-02-20 19:10:35.437645;Anomalia en Traficode red;Medio;192.168.1.119;invitado;Investigacion
+2025-02-20 19:10:35.437352;Anomalia en Traficode red;Alto;192.168.1.23;soporte;Resuelto
+2025-02-20 19:10:35.437326;Deteccionde malware;Bajo;192.168.1.163;usuario1;Investigacion
+2025-02-20 19:10:35.437252;Intento de acceso no autorizado;Critico;192.168.1.36;usuario1;Pendiente
+2025-02-19 19:10:35.438618;Modificacionsospechosa de archivos;Critico;192.168.1.33;invitado;Resuelto
+2025-02-19 19:10:35.438578;Intento de acceso no autorizado;Bajo;192.168.1.178;admin;Pendiente
+2025-02-19 19:10:35.438443;Deteccionde malware;Critico;192.168.1.66;usuario1;Mitigado
+2025-02-19 19:10:35.438427;Deteccionde malware;Bajo;192.168.1.74;soporte;Resuelto
+2025-02-19 19:10:35.437904;Deteccionde malware;Medio;192.168.1.96;admin;Pendiente
+2025-02-19 19:10:35.437854;Deteccionde malware;Bajo;192.168.1.144;soporte;Investigacion
+2025-02-19 19:10:35.437721;Intento de acceso no autorizado;Alto;192.168.1.226;admin;Pendiente
+2025-02-19 19:10:35.437245;Modificacionsospechosa de archivos;Alto;192.168.1.165;invitado;Mitigado
+2025-02-19 19:10:35.437216;Deteccionde malware;Critico;192.168.1.171;usuario2;Mitigado
+2025-02-19 19:10:35.437209;Modificacionsospechosa de archivos;Critico;192.168.1.62;usuario2;Mitigado
+2025-02-18 19:10:35.438575;Intento de acceso no autorizado;Medio;192.168.1.108;usuario1;Mitigado
+2025-02-18 19:10:35.438559;Intento de acceso no autorizado;Medio;192.168.1.164;admin;Resuelto
+2025-02-18 19:10:35.438473;Deteccionde malware;Critico;192.168.1.39;usuario1;Mitigado
+2025-02-18 19:10:35.438330;Ataque de phishing detectado;Alto;192.168.1.251;admin;Mitigado
+2025-02-18 19:10:35.438050;Intento de acceso no autorizado;Medio;192.168.1.9;invitado;Resuelto
+2025-02-18 19:10:35.438047;Intento de acceso no autorizado;Alto;192.168.1.244;usuario1;Investigacion
+2025-02-18 19:10:35.437998;Ataque de phishing detectado;Critico;192.168.1.249;usuario2;Pendiente
+2025-02-18 19:10:35.437773;Modificacionsospechosa de archivos;Critico;192.168.1.236;usuario2;Pendiente
+2025-02-18 19:10:35.437680;Modificacionsospechosa de archivos;Bajo;192.168.1.50;admin;Resuelto
+2025-02-18 19:10:35.437213;Modificacionsospechosa de archivos;Medio;192.168.1.70;invitado;Resuelto
+2025-02-18 19:10:35.437183;Ataque de phishing detectado;Alto;192.168.1.87;invitado;Investigacion
+2025-02-18 19:10:35.437169;Anomalia en Traficode red;Critico;192.168.1.163;admin;Investigacion
+2025-02-17 19:10:35.438494;Anomalia en Traficode red;Bajo;192.168.1.246;invitado;Mitigado
+2025-02-17 19:10:35.438456;Deteccionde malware;Medio;192.168.1.38;admin;Resuelto
+2025-02-17 19:10:35.438381;Anomalia en Traficode red;Medio;192.168.1.24;admin;Pendiente
+2025-02-17 19:10:35.438323;Anomalia en Traficode red;Bajo;192.168.1.42;invitado;Resuelto
+2025-02-17 19:10:35.438262;Modificacionsospechosa de archivos;Alto;192.168.1.126;usuario1;Resuelto
+2025-02-17 19:10:35.438240;Ataque de phishing detectado;Bajo;192.168.1.47;admin;Investigacion
+2025-02-17 19:10:35.438135;Anomalia en Traficode red;Alto;192.168.1.175;usuario3;Mitigado
+2025-02-17 19:10:35.438112;Ataque de phishing detectado;Medio;192.168.1.253;usuario1;Mitigado
+2025-02-17 19:10:35.438109;Deteccionde malware;Medio;192.168.1.41;usuario3;Resuelto
+2025-02-17 19:10:35.438083;Ataque de phishing detectado;Bajo;192.168.1.227;invitado;Pendiente
+2025-02-17 19:10:35.438077;Ataque de phishing detectado;Bajo;192.168.1.61;admin;Resuelto
+2025-02-17 19:10:35.437924;Ataque de phishing detectado;Bajo;192.168.1.59;usuario1;Mitigado
+2025-02-17 19:10:35.437895;Ataque de phishing detectado;Medio;192.168.1.150;usuario3;Mitigado
+2025-02-17 19:10:35.437793;Intento de acceso no autorizado;Critico;192.168.1.230;admin;Mitigado
+2025-02-17 19:10:35.437786;Deteccionde malware;Bajo;192.168.1.200;soporte;Investigacion
+2025-02-17 19:10:35.437738;Intento de acceso no autorizado;Alto;192.168.1.9;soporte;Pendiente
+2025-02-17 19:10:35.437674;Ataque de phishing detectado;Alto;192.168.1.191;invitado;Mitigado
+2025-02-17 19:10:35.437638;Anomalia en Traficode red;Bajo;192.168.1.40;invitado;Resuelto
+2025-02-17 19:10:35.437542;Intento de acceso no autorizado;Medio;192.168.1.12;usuario1;Pendiente
+2025-02-17 19:10:35.437423;Deteccionde malware;Medio;192.168.1.204;usuario3;Mitigado
+2025-02-17 19:10:35.437339;Deteccionde malware;Medio;192.168.1.92;usuario3;Investigacion
+2025-02-17 19:10:35.437313;Deteccionde malware;Bajo;192.168.1.226;soporte;Mitigado
+2025-02-17 19:10:35.437242;Ataque de phishing detectado;Alto;192.168.1.245;soporte;Investigacion
+2025-02-17 19:10:35.437194;Deteccionde malware;Bajo;192.168.1.46;invitado;Resuelto
+2025-02-17 19:10:35.437178;Intento de acceso no autorizado;Critico;192.168.1.166;usuario1;Resuelto
+2025-02-17 19:10:35.437156;Anomalia en Traficode red;Bajo;192.168.1.41;soporte;Mitigado
+2025-02-16 19:10:35.438823;Ataque de phishing detectado;Bajo;192.168.1.66;admin;Investigacion
+2025-02-16 19:10:35.438552;Ataque de phishing detectado;Medio;192.168.1.194;soporte;Pendiente
+2025-02-16 19:10:35.438437;Modificacionsospechosa de archivos;Bajo;192.168.1.114;usuario1;Pendiente
+2025-02-16 19:10:35.438278;Modificacionsospechosa de archivos;Critico;192.168.1.83;usuario2;Mitigado
+2025-02-16 19:10:35.438275;Modificacionsospechosa de archivos;Critico;192.168.1.77;soporte;Resuelto
+2025-02-16 19:10:35.438158;Modificacionsospechosa de archivos;Critico;192.168.1.211;admin;Mitigado
+2025-02-16 19:10:35.437806;Anomalia en Traficode red;Medio;192.168.1.11;usuario3;Resuelto
+2025-02-16 19:10:35.437760;Modificacionsospechosa de archivos;Critico;192.168.1.198;usuario3;Mitigado
+2025-02-16 19:10:35.437683;Intento de acceso no autorizado;Medio;192.168.1.220;usuario2;Resuelto
+2025-02-16 19:10:35.437621;Intento de acceso no autorizado;Bajo;192.168.1.24;admin;Investigacion
+2025-02-16 19:10:35.437612;Modificacionsospechosa de archivos;Bajo;192.168.1.18;invitado;Pendiente
+2025-02-16 19:10:35.437533;Ataque de phishing detectado;Alto;192.168.1.166;soporte;Investigacion
+2025-02-16 19:10:35.437507;Intento de acceso no autorizado;Critico;192.168.1.16;invitado;Pendiente
+2025-02-16 19:10:35.437391;Ataque de phishing detectado;Alto;192.168.1.223;admin;Mitigado
+2025-02-16 19:10:35.437384;Ataque de phishing detectado;Critico;192.168.1.107;usuario3;Pendiente
+2025-02-16 19:10:35.437316;Intento de acceso no autorizado;Medio;192.168.1.127;soporte;Pendiente
+2025-02-16 19:10:35.437236;Anomalia en Traficode red;Alto;192.168.1.236;usuario1;Pendiente
+2025-02-15 19:10:35.438758;Modificacionsospechosa de archivos;Alto;192.168.1.46;usuario3;Resuelto
+2025-02-15 19:10:35.438735;Intento de acceso no autorizado;Critico;192.168.1.117;soporte;Mitigado
+2025-02-15 19:10:35.438612;Modificacionsospechosa de archivos;Medio;192.168.1.134;usuario2;Pendiente
+2025-02-15 19:10:35.438501;Deteccionde malware;Medio;192.168.1.194;usuario1;Pendiente
+2025-02-15 19:10:35.438470;Ataque de phishing detectado;Medio;192.168.1.201;admin;Investigacion
+2025-02-15 19:10:35.438460;Ataque de phishing detectado;Medio;192.168.1.163;usuario3;Mitigado
+2025-02-15 19:10:35.438125;Anomalia en Traficode red;Bajo;192.168.1.64;soporte;Pendiente
+2025-02-15 19:10:35.438060;Intento de acceso no autorizado;Medio;192.168.1.83;invitado;Resuelto
+2025-02-15 19:10:35.437944;Anomalia en Traficode red;Alto;192.168.1.29;usuario3;Investigacion
+2025-02-15 19:10:35.437885;Deteccionde malware;Bajo;192.168.1.69;usuario3;Resuelto
+2025-02-15 19:10:35.437718;Modificacionsospechosa de archivos;Critico;192.168.1.65;usuario2;Mitigado
+2025-02-15 19:10:35.437706;Deteccionde malware;Medio;192.168.1.238;soporte;Pendiente
+2025-02-15 19:10:35.437552;Deteccionde malware;Critico;192.168.1.126;usuario3;Pendiente
+2025-02-15 19:10:35.437549;Anomalia en Traficode red;Bajo;192.168.1.70;soporte;Investigacion
+2025-02-15 19:10:35.437523;Modificacionsospechosa de archivos;Medio;192.168.1.71;invitado;Resuelto
+2025-02-15 19:10:35.437494;Ataque de phishing detectado;Medio;192.168.1.124;usuario3;Mitigado
+2025-02-15 19:10:35.437452;Intento de acceso no autorizado;Alto;192.168.1.197;usuario3;Mitigado
+2025-02-15 19:10:35.437262;Intento de acceso no autorizado;Alto;192.168.1.167;admin;Mitigado
+2025-02-14 19:10:35.438745;Modificacionsospechosa de archivos;Medio;192.168.1.133;usuario1;Investigacion
+2025-02-14 19:10:35.438675;Modificacionsospechosa de archivos;Critico;192.168.1.179;usuario2;Investigacion
+2025-02-14 19:10:35.438669;Ataque de phishing detectado;Medio;192.168.1.130;invitado;Resuelto
+2025-02-14 19:10:35.438622;Anomalia en Traficode red;Critico;192.168.1.242;invitado;Pendiente
+2025-02-14 19:10:35.438417;Intento de acceso no autorizado;Medio;192.168.1.48;invitado;Pendiente
+2025-02-14 19:10:35.438305;Anomalia en Traficode red;Critico;192.168.1.50;usuario3;Mitigado
+2025-02-14 19:10:35.438237;Intento de acceso no autorizado;Medio;192.168.1.21;soporte;Resuelto
+2025-02-14 19:10:35.438221;Intento de acceso no autorizado;Bajo;192.168.1.211;usuario3;Investigacion
+2025-02-14 19:10:35.437655;Anomalia en Traficode red;Medio;192.168.1.71;invitado;Investigacion
+2025-02-14 19:10:35.437568;Intento de acceso no autorizado;Critico;192.168.1.125;invitado;Resuelto
+2025-02-14 19:10:35.437546;Ataque de phishing detectado;Medio;192.168.1.59;usuario2;Investigacion
+2025-02-14 19:10:35.437461;Ataque de phishing detectado;Alto;192.168.1.138;usuario2;Mitigado
+2025-02-14 19:10:35.437299;Deteccionde malware;Medio;192.168.1.60;usuario1;Pendiente
+2025-02-14 19:10:35.437279;Ataque de phishing detectado;Alto;192.168.1.107;usuario3;Investigacion
